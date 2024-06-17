@@ -7,13 +7,15 @@
 - 📫 How to reach me: radhikagarg104@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: It's all about Tech!
+- 
 
 ---
 
-
 ### Connect with me:
 
-- Portfolio: [Personal Portfolio](https://github.com/Radhikagarg20/Personal-portfolio/blob/main/index.html)
+[LinkedIn](https://www.linkedin.com/in/radhikagarg-/)  
+[GitHub](https://github.com/Radhikagarg20)
+
 
 ---
 
