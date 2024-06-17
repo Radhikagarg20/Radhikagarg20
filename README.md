@@ -8,11 +8,20 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: It's all about Tech!
 
+
+
+---
+
+### Portfolio:
+
+[Personal Portfolio](https://github.com/Radhikagarg20/Personal-portfolio/blob/main/index.html)
+
+
 ---
 
 ### Connect with me:
-Linkedin: [LinkedIn](https://www.linkedin.com/in/radhikagarg-/)  
-Github: [GitHub](https://github.com/Radhikagarg20)
+[LinkedIn](https://www.linkedin.com/in/radhikagarg-/)  
+[GitHub](https://github.com/Radhikagarg20)
 
 
 ---
