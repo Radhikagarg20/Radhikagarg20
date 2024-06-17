@@ -8,6 +8,8 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: It's all about Tech!
 
+---
+
 
 ### Connect with me:
 
