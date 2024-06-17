@@ -8,12 +8,6 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: It's all about Tech!
 
-<!---
-Radhikagarg20/Radhikagarg20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
- ---
 
 ### Connect with me:
 
@@ -37,7 +31,7 @@ You can click the Preview link to take a look at your changes.
 
 #### Data Analytics and Visualization Tools:
 - Data Visualization Tools
-- Machine Learning
+- Machine Learning & Artificial Intelligence 
 
 #### Software Tools:
 - Microsoft Excel, VS Code, Jupyter Notebook, Spreadsheet
