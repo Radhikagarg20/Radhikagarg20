@@ -29,8 +29,8 @@
 - ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white) 
 
 #### Front-End Development:
-- ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) 
-- ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white) 
+- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
+- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) 
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
 - ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white) 
 - ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
@@ -51,7 +51,7 @@
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) (including libraries such as NumPy, Pandas, and Scikit-learn)
 
 #### Data Analytics and Visualization Tools:
-- ![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-0074D9?style=flat&logo=visualization&logoColor=white) 
+- ![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-0074D9?style=flat&logo=data%20visualization&logoColor=white) 
 - ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-F7DF1E?style=flat&logo=machine-learning&logoColor=black) 
 
 #### Software Tools:
