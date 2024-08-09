@@ -17,24 +17,24 @@
 
 ### Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/radhikagarg-/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=white&labelColor=000000)](https://github.com/Radhikagarg20)  
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white&labelColor=D14836)](mailto:radhikagarg104@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/radhikagarg-/)  
+[![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=white)](https://github.com/Radhikagarg20)  
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:radhikagarg104@gmail.com)
 
 ---
 
 ### Languages and Tools:
 
 #### Programming Languages:
-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
-- ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) 
-- ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white) 
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+- ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+- ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 
 #### Front-End Development:
-- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
-- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) 
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
-- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white) 
+- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 - ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 
 #### Responsive Design:
@@ -46,18 +46,18 @@
 - ![XML](https://img.shields.io/badge/-XML-FF5722?style=flat&logo=xml&logoColor=white)
 
 #### Database:
-- ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=sqlite&logoColor=white) 
-- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) 
+- ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=sqlite&logoColor=white)
+- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 #### Data Science:
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) (including libraries such as NumPy, Pandas, and Scikit-learn)
 
 #### Data Analytics and Visualization Tools:
-- ![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-0074D9?style=flat&logo=data%20visualization&logoColor=white) 
-- ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-F7DF1E?style=flat&logo=machine-learning&logoColor=black) 
+- ![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-0074D9?style=flat&logo=data%20visualization&logoColor=white)
+- ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-F7DF1E?style=flat&logo=machine-learning&logoColor=black)
 
 #### Software Tools:
-- ![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) 
-- ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) 
-- ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=flat&logo=jupyter&logoColor=white) 
+- ![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+- ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+- ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=flat&logo=jupyter&logoColor=white)
 - ![Spreadsheet](https://img.shields.io/badge/-Spreadsheet-003B57?style=flat&logo=spreadsheet&logoColor=white)
