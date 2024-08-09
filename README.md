@@ -4,18 +4,14 @@
 - 🌱 I’m currently learning React Native, Flutter, web development, and about data.
 - 👀 I’m interested in web development, data science, and tech innovation.
 - 💞️ I’m looking to collaborate on web development projects.
-- 📫 How to reach me: radhikagarg104@gmail.com
+- 📫 How to reach me: [radhikagarg104@gmail.com](mailto:radhikagarg104@gmail.com)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: It's all about Tech!
-
-
 
 ---
 
 ### Portfolio:
-
 [Personal Portfolio](https://github.com/Radhikagarg20/Personal-portfolio/blob/main/index.html)
-
 
 ---
 
@@ -23,26 +19,35 @@
 [LinkedIn](https://www.linkedin.com/in/radhikagarg-/)  
 [GitHub](https://github.com/Radhikagarg20)
 
-
 ---
 
 ### Languages and Tools:
 
 #### Programming Languages:
-- Python, Java, C/C++, PHP
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
+- ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) 
+- ![C/C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white) 
+- ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white) 
 
 #### Front-End Development:
-- HTML, CSS, JavaScript, Bootstrap
+- ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) 
+- ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white) 
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
+- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white) 
 
 #### Database:
-- SQL, MySQL
+- ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=sqlite&logoColor=white) 
+- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) 
 
 #### Data Science:
-- Python (including libraries such as NumPy, Pandas, and Scikit-learn)
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) (including libraries such as NumPy, Pandas, and Scikit-learn)
 
 #### Data Analytics and Visualization Tools:
-- Data Visualization Tools
-- Machine Learning & Artificial Intelligence 
+- ![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-0074D9?style=flat&logo=visualization&logoColor=white) 
+- ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-F7DF1E?style=flat&logo=machine-learning&logoColor=black) 
 
 #### Software Tools:
-- Microsoft Excel, VS Code, Jupyter Notebook, Spreadsheet
+- ![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) 
+- ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) 
+- ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=flat&logo=jupyter&logoColor=white) 
+- ![Spreadsheet](https://img.shields.io/badge/-Spreadsheet-003B57?style=flat&logo=spreadsheet&logoColor=white)
