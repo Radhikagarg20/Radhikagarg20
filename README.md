@@ -1,12 +1,12 @@
 # Hi there, I’m @Radhikagarg20! 👋
 
+-  Learn💻 Build🛠 Grow🚀
 - 🔭 Passionate CS student seeking tech innovation opportunities!
-- 🌱 I’m currently learning React Native, Flutter, web development, and about data.
+- 🌱 I’m currently learning React js, Node js
 - 👀 I’m interested in web development, data science, and tech innovation.
 - 💞️ I’m looking to collaborate on web development projects.
 - 📫 How to reach me: [radhikagarg104@gmail.com](mailto:radhikagarg104@gmail.com)
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: It's all about Tech!
 
 ---
 
