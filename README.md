@@ -26,7 +26,6 @@
 #### Programming Languages:
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
 - ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) 
-- ![C/C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white) 
 - ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white) 
 
 #### Front-End Development:
@@ -34,6 +33,15 @@
 - ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white) 
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
 - ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white) 
+- ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+
+#### Responsive Design:
+- ![Responsive Design](https://img.shields.io/badge/-Responsive%20Design-FF5722?style=flat&logo=responsive&logoColor=white)
+
+#### Web Technologies:
+- ![AJAX](https://img.shields.io/badge/-AJAX-0078D4?style=flat&logo=ajax&logoColor=white)
+- ![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=json&logoColor=white)
+- ![XML](https://img.shields.io/badge/-XML-FF5722?style=flat&logo=xml&logoColor=white)
 
 #### Database:
 - ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=sqlite&logoColor=white) 
