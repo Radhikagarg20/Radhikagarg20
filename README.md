@@ -1,6 +1,6 @@
-## hey, i am dinesh 🙋🏽‍♂️
+## hey, i am Radhika 🙋🏽‍♂️
 
-![status](https://img.shields.io/badge/Open_To_Work-c70000) ![pronouns](https://img.shields.io/badge/Pronouns-He/Him-8A2BE2)
+![status](https://img.shields.io/badge/Open_To_Work-c70000) ![pronouns](https://img.shields.io/badge/Pronouns-SHe/Her-8A2BE2)
 
 - 🔭 Passionate CS student seeking tech innovation opportunities!🚀
 - 🌱 I’m currently learning React js, Node js
