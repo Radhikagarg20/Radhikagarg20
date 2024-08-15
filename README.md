@@ -7,7 +7,6 @@
 - 👀 I’m interested in web development, data science, and tech innovation.
 - 💞️ I’m looking to collaborate on web development projects.
 - 📫 How to reach me: [radhikagarg104@gmail.com](mailto:radhikagarg104@gmail.com)
-- 😄 Pronouns: She/Her
 
 ---
 
@@ -62,3 +61,10 @@
 - ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 - ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=flat&logo=jupyter&logoColor=white)
 - ![Spreadsheet](https://img.shields.io/badge/-Spreadsheet-003B57?style=flat&logo=spreadsheet&logoColor=white)
+
+
+## Contact 📬
+
+For a quick response, DM me on https://www.linkedin.com/in/radhikagarg-/
+
+For professional inquiries, reach out via email at ``radhikagarg104@gmail.com``
