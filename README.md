@@ -1,7 +1,8 @@
-# Hi there, I’m @Radhikagarg20! 👋
+## hey, i am dinesh 🙋🏽‍♂️
 
--  Learn💻 Build🛠 Grow🚀
-- 🔭 Passionate CS student seeking tech innovation opportunities!
+![status](https://img.shields.io/badge/Open_To_Work-c70000) ![pronouns](https://img.shields.io/badge/Pronouns-He/Him-8A2BE2)
+
+- 🔭 Passionate CS student seeking tech innovation opportunities!🚀
 - 🌱 I’m currently learning React js, Node js
 - 👀 I’m interested in web development, data science, and tech innovation.
 - 💞️ I’m looking to collaborate on web development projects.
