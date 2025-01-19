@@ -2,24 +2,10 @@
 
 ![status](https://img.shields.io/badge/Open_To_Work-c70000) ![pronouns](https://img.shields.io/badge/Pronouns-SHe/Her-8A2BE2)
 
-- 🔭 Passionate CS student seeking tech innovation opportunities!🚀
-- 🌱 I’m currently learning React js, Node js
-- 👀 I’m interested in web development, data science, and tech innovation.
-- 💞️ I’m looking to collaborate on web development projects.
-- 📫 How to reach me: [radhikagarg104@gmail.com](mailto:radhikagarg104@gmail.com)
-
----
-
-### Portfolio:
-[Personal Portfolio](https://github.com/Radhikagarg20/Personal-portfolio/blob/main/index.html)
-
----
-
-### Connect with me:
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/radhikagarg-/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=white)](https://github.com/Radhikagarg20)  
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:radhikagarg104@gmail.com)
+- Passionate CS student seeking tech innovation opportunities!🚀
+- I’m interested in web development, data science, and tech innovation.
+- I’m looking to collaborate on web development projects.
+- How to reach me: [radhikagarg104@gmail.com](mailto:radhikagarg104@gmail.com)
 
 ---
 
@@ -66,5 +52,3 @@
 ## Contact 📬
 
 For a quick response, DM me on https://www.linkedin.com/in/radhikagarg-/
-
-For professional inquiries, reach out via email at ``radhikagarg104@gmail.com``
