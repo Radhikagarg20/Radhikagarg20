@@ -1,4 +1,4 @@
-## hey, i am Radhika 🙋🏽‍♂️
+## Hey, I am Radhika 🙋🏽‍♂️
 
 ![status](https://img.shields.io/badge/Open_To_Work-c70000) ![pronouns](https://img.shields.io/badge/Pronouns-SHe/Her-8A2BE2)
 
