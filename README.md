@@ -4,11 +4,8 @@
 
 
 <div style="text-align: center; margin: 20px;">
-  <video width="320" height="180" controls>
-    <source src="assets/video.mp4" type="video/mp4">
-  </video>
+  <img src="assets/vid.gif" alt="Video Description" width="320">
 </div>
-
 
 
 
