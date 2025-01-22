@@ -13,6 +13,13 @@
   <p style="color: #0077b5; font-weight: bold;">Open for Opportunities & Continuous Learning 🚀</p>
 
   <p><a href="mailto:radhikagarg104@gmail.com" style="color: #fff; background-color: #0073e6; padding: 10px 20px; border-radius: 5px; text-decoration: none;">Contact Me</a></p>
+
+  <div style="margin-top: 30px;">
+    <a href="https://www.linkedin.com/in/radhikagarg-" target="_blank" style="color: white; background-color: #0077b5; padding: 10px 20px; text-decoration: none; border-radius: 5px; margin: 5px;">LinkedIn</a>
+    <a href="https://www.yourwebsite.com" target="_blank" style="color: white; background-color: #28a745; padding: 10px 20px; text-decoration: none; border-radius: 5px; margin: 5px;">Website</a>
+    <a href="https://github.com/radhikagarg" target="_blank" style="color: white; background-color: #181717; padding: 10px 20px; text-decoration: none; border-radius: 5px; margin: 5px;">GitHub</a>
+  </div>
+  
 </div>
 
 ---
