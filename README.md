@@ -1,17 +1,5 @@
 ## Hey, I am Radhika 🙋🏽‍♂️
 
-![Hello there](hello.gif "Hello there")
-
-[Watch the video](hello.mp4)
-
-
-<div style="text-align: center;">
-  <video width="400" controls>
-    <source src="hello.mp4" type="hello/mp4">
-    Your browser does not support the video tag.
-  </video>
-</div>
-
 
 ![status](https://img.shields.io/badge/Open_To_Work-c70000) ![pronouns](https://img.shields.io/badge/Pronouns-SHe/Her-8A2BE2)
 
@@ -21,6 +9,7 @@
 - How to reach me: [radhikagarg104@gmail.com](mailto:radhikagarg104@gmail.com)
 
 ---
+
 ### Skills
 ### Languages and Tools:
 
