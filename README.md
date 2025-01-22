@@ -1,6 +1,5 @@
 ## Hey, I am Radhika 🙋🏽‍♂️
 
----
 
 <div style="text-align: center; margin: 30px;">
   <img src="assets/vid.gif" alt="Video Description" width="400">
