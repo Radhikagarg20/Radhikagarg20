@@ -6,12 +6,14 @@
 </div>
 
 
-![status](https://img.shields.io/badge/Open_To_Work-c70000) ![pronouns](https://img.shields.io/badge/Pronouns-SHe/Her-8A2BE2)
+<div style="text-align: center; font-size: 1.5em; font-family: 'Roboto', sans-serif; margin-top: 20px;">
+  <p style="color: #555;">Passionate CS student seeking tech innovation opportunities! 🚀</p>
+  <p style="color: #3b5998;">I’m interested in web development, data science, and tech innovation.</p>
+  <p style="color: #c70000;">Looking to collaborate on web development projects!</p>
+  <p><a href="mailto:radhikagarg104@gmail.com" style="color: #fff; background-color: #0073e6; padding: 10px 20px; border-radius: 5px; text-decoration: none;">Contact Me</a></p>
+</div>
 
-- Passionate CS student seeking tech innovation opportunities!🚀
-- I’m interested in web development, data science, and tech innovation.
-- I’m looking to collaborate on web development projects.
-- How to reach me: [radhikagarg104@gmail.com](mailto:radhikagarg104@gmail.com)
+![status](https://img.shields.io/badge/Open_To_Work-c70000) ![pronouns](https://img.shields.io/badge/Pronouns-SHe/Her-8A2BE2)
 
 ---
 
@@ -45,58 +47,3 @@
 ## Contact 📬
 
 For a quick response, DM me on https://www.linkedin.com/in/radhikagarg-/
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Hey, I am Radhika 🙋🏽‍♂️
-
-<div style="text-align: center; margin: 30px;">
-  <img src="assets/vid.gif" alt="Video Description" width="400">
-</div>
-
-<div style="text-align: center; font-size: 1.5em; font-family: 'Roboto', sans-serif; margin-top: 20px;">
-  <p style="color: #555;">Passionate CS student seeking tech innovation opportunities! 🚀</p>
-  <p style="color: #3b5998;">I’m interested in web development, data science, and tech innovation.</p>
-  <p style="color: #c70000;">Looking to collaborate on web development projects!</p>
-  <p><a href="mailto:radhikagarg104@gmail.com" style="color: #fff; background-color: #0073e6; padding: 10px 20px; border-radius: 5px; text-decoration: none;">Contact Me</a></p>
-</div>
-
-![status](https://img.shields.io/badge/Open_To_Work-c70000) ![pronouns](https://img.shields.io/badge/Pronouns-She/Her-8A2BE2)
-
----
-
-### Skills & Tools
-
-#### Programming Languages:
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-
-#### Front-End:
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-#### Back-End:
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
-
----
-
-### Contact 📬
-For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/radhikagarg-/).
