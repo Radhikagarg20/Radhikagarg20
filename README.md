@@ -10,10 +10,10 @@
   <p style="color: #555;">Passionate CS student seeking tech innovation opportunities! 🚀</p>
   <p style="color: #3b5998;">I’m interested in web development, data science, and tech innovation.</p>
   <p style="color: #c70000;">Looking to collaborate on web development projects!</p>
+  <p style="color: #0077b5; font-weight: bold;">Open for Opportunities & Continuous Learning 🚀</p>
+
   <p><a href="mailto:radhikagarg104@gmail.com" style="color: #fff; background-color: #0073e6; padding: 10px 20px; border-radius: 5px; text-decoration: none;">Contact Me</a></p>
 </div>
-
-![status](https://img.shields.io/badge/Open_To_Work-c70000) ![pronouns](https://img.shields.io/badge/Pronouns-SHe/Her-8A2BE2)
 
 ---
 
