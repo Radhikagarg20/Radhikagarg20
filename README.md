@@ -14,11 +14,44 @@
 
   <p><a href="mailto:radhikagarg104@gmail.com" style="color: #fff; background-color: #0073e6; padding: 10px 20px; border-radius: 5px; text-decoration: none;">Contact Me</a></p>
 
-  <div style="margin-top: 30px;">
-    <a href="https://www.linkedin.com/in/radhikagarg-" target="_blank" style="color: white; background-color: #0077b5; padding: 10px 20px; text-decoration: none; border-radius: 5px; margin: 5px;">LinkedIn</a>
-    <a href="https://www.yourwebsite.com" target="_blank" style="color: white; background-color: #28a745; padding: 10px 20px; text-decoration: none; border-radius: 5px; margin: 5px;">Website</a>
-    <a href="https://github.com/radhikagarg" target="_blank" style="color: white; background-color: #181717; padding: 10px 20px; text-decoration: none; border-radius: 5px; margin: 5px;">GitHub</a>
+
+
+
+
+
+
+
+
+
+<div style="margin-top: 30px;">
+    <p>Contact Me:</p>
+    <!-- LinkedIn Button -->
+    <a href="https://www.linkedin.com/in/radhikagarg-" target="_blank" style="text-decoration: none; margin: 0 10px;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/LinkedIn_icon.svg" alt="LinkedIn" style="width: 40px; height: 40px; border-radius: 5px; background-color: #0077b5;">
+    </a>
+    
+    <!-- Website Button -->
+    <a href="https://www.yourwebsite.com" target="_blank" style="text-decoration: none; margin: 0 10px;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Website_icon_2.svg/1024px-Website_icon_2.svg.png" alt="Website" style="width: 40px; height: 40px; border-radius: 5px; background-color: #28a745;">
+    </a>
+    
+    <!-- GitHub Button -->
+    <a href="https://github.com/radhikagarg" target="_blank" style="text-decoration: none; margin: 0 10px;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" style="width: 40px; height: 40px; border-radius: 5px; background-color: #181717;">
+    </a>
   </div>
+
+
+
+
+
+
+
+
+
+
+
+
   
 </div>
 
