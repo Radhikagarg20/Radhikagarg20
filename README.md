@@ -2,16 +2,9 @@
 
 ---
 
-
 <div style="text-align: center; margin: 20px;">
-  <img src="assets/vid.gif" alt="Video Description" width="320">
+  <img src="assets/vid.gif" alt="Video Description" width="400">
 </div>
-
-
-
-
-
-
 
 
 ![status](https://img.shields.io/badge/Open_To_Work-c70000) ![pronouns](https://img.shields.io/badge/Pronouns-SHe/Her-8A2BE2)
