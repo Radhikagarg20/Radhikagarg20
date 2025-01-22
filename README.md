@@ -2,7 +2,7 @@
 
 ---
 
-<div style="text-align: center; margin: 20px;">
+<div style="text-align: center; margin: 30px;">
   <img src="assets/vid.gif" alt="Video Description" width="400">
 </div>
 
@@ -16,7 +16,7 @@
 
 ---
 
-### Skills
+
 ### Languages and Tools:
 
 #### Programming Languages:
