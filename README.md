@@ -1,14 +1,21 @@
-<div align="center">
+<h1 align="center">Hi, I'm Radhika Garg 👋</h1>
 
-# Radhika Garg
+<p align="center">
+  <b>Full Stack Developer &nbsp;|&nbsp; MCA in AI/ML &nbsp;|&nbsp; Problem Solver</b><br/>
+  <i>Building scalable, data-driven applications with clean, maintainable code</i>
+</p>
 
-**Full Stack Developer · MCA in AI/ML · Nashik, Maharashtra**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/radhikagarg-)
-[![Gmail](https://img.shields.io/badge/Email-radhikagarg104-D14836?style=flat&logo=gmail&logoColor=white)](mailto:radhikagarg104@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Radhikagarg20-181717?style=flat&logo=github&logoColor=white)](https://github.com/Radhikagarg20)
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/radhikagarg-" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-radhikagarg-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Radhikagarg20" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Radhikagarg20-181717?style=flat&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:radhikagarg104@gmail.com">
+    <img src="https://img.shields.io/badge/Email-radhikagarg104@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
@@ -109,3 +116,10 @@ Full-featured real estate platform with search, listings, and booking flow. Mobi
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Radhikagarg20&layout=compact&hide_border=true&theme=default)
 
 </div>
+
+---
+
+<p align="center">
+  <i>Open to full-stack, backend, and AI/ML adjacent roles. Feel free to reach out!</i><br/>
+  <a href="mailto:radhikagarg104@gmail.com">radhikagarg104@gmail.com</a>
+</p>
