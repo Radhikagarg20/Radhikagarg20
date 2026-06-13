@@ -4,7 +4,6 @@
 
 <p align="center">
   <b>Full Stack Developer &nbsp;|&nbsp; MCA in AI/ML &nbsp;|&nbsp; Problem Solver</b><br/>
-  <i>Building scalable, data-driven applications with clean, maintainable code</i>
 </p>
 
 <p align="center">
